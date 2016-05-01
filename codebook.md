@@ -29,8 +29,10 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 
+## tidy.txt
+By running Run_Analysis.R in this repo, tidy.txt is created containing means of mean and standard deviations by subject and activity.
 
-##Variable information in tidy.txt
+###Variable information in tidy.txt
 - id Subject ID
 - activity Activity Type
 - mean_tBodyAcc.std...X Mean of Mean body acceleration for X direction
